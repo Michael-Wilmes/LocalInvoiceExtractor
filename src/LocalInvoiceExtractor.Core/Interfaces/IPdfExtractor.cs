@@ -1,4 +1,4 @@
-namespace LocalInvoiceExtractor.Domain.Interfaces;
+namespace LocalInvoiceExtractor.Core.Interfaces;
 
 public interface IPdfExtractor
 {

@@ -1,4 +1,4 @@
-using LocalInvoiceExtractor.Domain.Interfaces;
+using LocalInvoiceExtractor.Core.Interfaces;
 
 namespace LocalInvoiceExtractor.Infrastructure.Services;
 
